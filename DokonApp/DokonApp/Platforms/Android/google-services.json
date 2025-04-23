@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511111425037",
+    "project_id": "dokonapp-c5c17",
+    "storage_bucket": "dokonapp-c5c17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511111425037:android:5477b373e9d8acbbe63944",
+        "android_client_info": {
+          "package_name": "com.companyname.dokonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5VAthwr10QVD7t_DX65Bc4i6OgSGajfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
