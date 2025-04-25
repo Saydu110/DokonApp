@@ -1263,3 +1263,4 @@ C:\Github_project\DokonApp\DokonApp\DokonApp\obj\Debug\net8.0-android\android\co
 C:\Github_project\DokonApp\DokonApp\DokonApp\obj\Debug\net8.0-android\android\marshal_methods.x86_64.o
 C:\Github_project\DokonApp\DokonApp\DokonApp\obj\Debug\net8.0-android\android\jni_remap.x86_64.o
 C:\Github_project\DokonApp\DokonApp\DokonApp\obj\Debug\net8.0-android\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Github_project\DokonApp\DokonApp\DokonApp\obj\Debug\net8.0-android\DokonApp.sourcelink.json

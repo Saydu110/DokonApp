@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DokonApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+be3d0670a2a2e384dfd734f3a769cfa633fb5774")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d7391e06ec4438b955fdac5ba7625df20e06479b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DokonApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DokonApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

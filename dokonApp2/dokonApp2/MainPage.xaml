@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="dokonApp2.MainPage">
+
+    <StackLayout Padding="20">
+
+        <Entry x:Name="nameEntry" Placeholder="Mahsulot nomi" />
+        <Entry x:Name="priceEntry" Placeholder="Narxi" Keyboard="Numeric" />
+
+        <Button Text="Qo'shish" Clicked="OnAddClicked" />
+
+        <CollectionView x:Name="productList">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10">
+                        <Label Text="{Binding Name}" FontAttributes="Bold"/>
+                        <Label Text="{Binding Price, StringFormat='Narxi: {0} so\'m'}"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </StackLayout>
+
+
+</ContentPage>
