@@ -11,5 +11,15 @@
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
+    
+    <ShellContent 
+        Title="Ko'rish" 
+        ContentTemplate="{DataTemplate local:ProdactListPage}" 
+        Route="ProdactListPage" />
+
+    <ShellContent 
+    Title="Qo'shish" 
+    ContentTemplate="{DataTemplate local:AddProductPage}" 
+    Route="AddProductPage" />
 
 </Shell>

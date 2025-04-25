@@ -3,23 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="dokonApp2.MainPage">
 
-    <StackLayout Padding="20">
+    <StackLayout Padding="20" Spacing="15" VerticalOptions="Center">
 
-        <Entry x:Name="nameEntry" Placeholder="Mahsulot nomi" />
-        <Entry x:Name="priceEntry" Placeholder="Narxi" Keyboard="Numeric" />
+        <Label Text="Do'kon boshqaruv paneli"
+               FontSize="24"
+               HorizontalOptions="Center" />
 
-        <Button Text="Qo'shish" Clicked="OnAddClicked" />
+        <Button Text="📝 Mahsulotlar ro'yxati"
+                Clicked="OnViewProductsClicked" />
 
-        <CollectionView x:Name="productList">
-            <CollectionView.ItemTemplate>
-                <DataTemplate>
-                    <StackLayout Padding="10">
-                        <Label Text="{Binding Name}" FontAttributes="Bold"/>
-                        <Label Text="{Binding Price, StringFormat='Narxi: {0} so\'m'}"/>
-                    </StackLayout>
-                </DataTemplate>
-            </CollectionView.ItemTemplate>
-        </CollectionView>
+        <Button Text="➕ Mahsulot qo'shish"
+                Clicked="OnAddProductClicked" />
 
     </StackLayout>
 

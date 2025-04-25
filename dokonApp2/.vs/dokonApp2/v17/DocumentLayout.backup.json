@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Github_project\\DokonApp\\dokonApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|c:\\github_project\\dokonapp\\dokonapp2\\dokonapp2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|solutionrelative:dokonapp2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|c:\\github_project\\dokonapp\\dokonapp2\\dokonapp2\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|solutionrelative:dokonapp2\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|c:\\github_project\\dokonapp\\dokonapp2\\dokonapp2\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|solutionrelative:dokonapp2\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|c:\\github_project\\dokonapp\\dokonapp2\\dokonapp2\\products_model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|solutionrelative:dokonapp2\\products_model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|c:\\github_project\\dokonapp\\dokonapp2\\dokonapp2\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|solutionrelative:dokonapp2\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|c:\\github_project\\dokonapp\\dokonapp2\\dokonapp2\\prodactlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|solutionrelative:dokonapp2\\prodactlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|c:\\github_project\\dokonapp\\dokonapp2\\dokonapp2\\prodactlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|solutionrelative:dokonapp2\\prodactlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|c:\\github_project\\dokonapp\\dokonapp2\\dokonapp2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|solutionrelative:dokonapp2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|c:\\github_project\\dokonapp\\dokonapp2\\dokonapp2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D555A50A-742C-4742-A64B-117538B3A643}|dokonApp2\\dokonApp2.csproj|solutionrelative:dokonapp2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "service.cs",
+              "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\Services\\service.cs",
+              "RelativeDocumentMoniker": "dokonApp2\\Services\\service.cs",
+              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\Services\\service.cs",
+              "RelativeToolTip": "dokonApp2\\Services\\service.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:01:49.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\Products_model\\product.cs",
+              "RelativeDocumentMoniker": "dokonApp2\\Products_model\\product.cs",
+              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\Products_model\\product.cs",
+              "RelativeToolTip": "dokonApp2\\Products_model\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:56:46.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\AddProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "dokonApp2\\AddProductPage.xaml.cs",
+              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\AddProductPage.xaml.cs",
+              "RelativeToolTip": "dokonApp2\\AddProductPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:54:57.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AddProductPage.xaml",
+              "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\AddProductPage.xaml",
+              "RelativeDocumentMoniker": "dokonApp2\\AddProductPage.xaml",
+              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\AddProductPage.xaml",
+              "RelativeToolTip": "dokonApp2\\AddProductPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-25T06:54:54.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdactListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\ProdactListPage.xaml.cs",
+              "RelativeDocumentMoniker": "dokonApp2\\ProdactListPage.xaml.cs",
+              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\ProdactListPage.xaml.cs",
+              "RelativeToolTip": "dokonApp2\\ProdactListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:16:11.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdactListPage.xaml",
+              "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\ProdactListPage.xaml",
+              "RelativeDocumentMoniker": "dokonApp2\\ProdactListPage.xaml",
+              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\ProdactListPage.xaml",
+              "RelativeToolTip": "dokonApp2\\ProdactListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-25T06:16:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "dokonApp2\\MainPage.xaml.cs",
               "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\MainPage.xaml.cs",
               "RelativeToolTip": "dokonApp2\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T05:38:42.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\MainPage.xaml",
               "RelativeDocumentMoniker": "dokonApp2\\MainPage.xaml",
-              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\MainPage.xaml*",
-              "RelativeToolTip": "dokonApp2\\MainPage.xaml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp2\\dokonApp2\\MainPage.xaml",
+              "RelativeToolTip": "dokonApp2\\MainPage.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-23T15:56:24.62Z",
               "EditorCaption": ""

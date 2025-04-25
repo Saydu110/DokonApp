@@ -470,3 +470,15 @@ C:\Github_project\DokonApp\dokonApp2\dokonApp2\obj\Debug\net9.0-windows10.0.1904
 C:\Github_project\DokonApp\dokonApp2\dokonApp2\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Github_project\DokonApp\dokonApp2\dokonApp2\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Github_project\DokonApp\dokonApp2\dokonApp2\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.Analytics.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.Auth.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.CloudMessaging.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.Core.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.Crashlytics.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.DynamicLinks.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.Firestore.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.Functions.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.RemoteConfig.dll
+C:\Github_project\DokonApp\dokonApp2\dokonApp2\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.Storage.dll
