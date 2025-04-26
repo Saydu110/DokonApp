@@ -1,18 +1,18 @@
 {
   "Task": "FastDeploy",
   "Properties": {
-    "target.prop.ro.product.build.version.sdk": "34",
-    "target.prop.ro.product.cpu.abilist": "x86_64;arm64-v8a",
-    "target.prop.ro.product.manufacturer": "Google",
-    "target.prop.ro.product.model": "sdk_gphone64_x86_64",
-    "target.prop.ro.product.cpu.abi": "x86_64",
-    "deploy.error.code": "",
+    "target.prop.ro.product.build.version.sdk": "30",
+    "target.prop.ro.product.cpu.abilist": "arm64-v8a;armeabi-v7a;armeabi",
+    "target.prop.ro.product.manufacturer": "Xiaomi",
+    "target.prop.ro.product.model": "M2004J19C",
+    "target.prop.ro.product.cpu.abi": "arm64-v8a",
+    "deploy.error.code": "ADB0010",
     "deploy.tool": "xamarin.sync",
-    "deploy.result": "Success",
+    "deploy.result": "Failed",
     "deploy.supports.fastdev": "True",
     "deploy.systemapp": "False",
-    "deploy.duration.ms": "21407",
-    "pii.deploy.error": "",
+    "deploy.duration.ms": "2409",
+    "pii.deploy.error": "Mono.AndroidTools.InstallFailedException: Failure [INSTALL_FAILED_USER_RESTRICTED: Install canceled by user]\r\n   at Mono.AndroidTools.Internal.AdbOutputParsing.CheckInstallSuccess(String output, String packageName) in /Users/runner/work/1/s/xamarin-android/external/android-platform-support/src/Mono.AndroidTools/Internal/AdbOutputParsing.cs:line 323\r\n   at System.Threading.Tasks.Task.Execute()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at AndroidDeviceExtensions.\u003CPushAndInstallPackageAsync\u003Ed__13.MoveNext() in /Users/runner/work/1/s/xamarin-android/external/android-platform-support/src/Xamarin.AndroidTools/Devices/AndroidDeviceExtensions.cs:line 225\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   at AndroidDeviceExtensions.\u003CPushAndInstallPackageAsync\u003Ed__13.MoveNext() in /Users/runner/work/1/s/xamarin-android/external/android-platform-support/src/Xamarin.AndroidTools/Devices/AndroidDeviceExtensions.cs:line 242\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at Xamarin.Android.Tasks.FastDeploy.\u003CInstallPackage\u003Ed__127.MoveNext() in /Users/runner/work/1/s/xamarin-android/external/android-platform-support/src/Xamarin.Android.Build.Debugging.Tasks/Tasks/FastDeploy.cs:line 444\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   at Xamarin.Android.Tasks.FastDeploy.\u003CInstallPackage\u003Ed__127.MoveNext() in /Users/runner/work/1/s/xamarin-android/external/android-platform-support/src/Xamarin.Android.Build.Debugging.Tasks/Tasks/FastDeploy.cs:line 461\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at Xamarin.Android.Tasks.FastDeploy.\u003CRunInstall\u003Ed__121.MoveNext() in /Users/runner/work/1/s/xamarin-android/external/android-platform-support/src/Xamarin.Android.Build.Debugging.Tasks/Tasks/FastDeploy.cs:line 312",
     "pii.deploy.file": ""
   }
 }
