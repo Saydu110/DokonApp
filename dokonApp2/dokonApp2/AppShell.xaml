@@ -18,8 +18,23 @@
         Route="ProdactListPage" />
 
     <ShellContent 
-    Title="Qo'shish" 
-    ContentTemplate="{DataTemplate local:AddProductPage}" 
-    Route="AddProductPage" />
+        Title="Qo'shish" 
+        ContentTemplate="{DataTemplate local:AddProductPage}" 
+        Route="AddProductPage" />
+
+    <ShellContent
+        Title="Login"
+        ContentTemplate="{DataTemplate local:LoginPages}"
+        Route="LoginPage"/>
+
+    <ShellContent
+        Title="Admin"
+        ContentTemplate="{DataTemplate local:AdminPage}"
+        Route="AdminPage"/>
+
+    <ShellContent
+        Title="User"
+        ContentTemplate="{DataTemplate local:UserPage}"
+        Route="UserPage"/>
 
 </Shell>

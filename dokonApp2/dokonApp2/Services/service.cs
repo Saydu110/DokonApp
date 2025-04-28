@@ -26,5 +26,16 @@
                 var content = new StringContent(json, Encoding.UTF8, "application/json");
                 await _client.PostAsync(_baseUrl + "products.json", content);
             }
-        }
+
+
+            public async Task DeleteProductAsync(string id)
+            {
+                await _client.DeleteAsync($"{_baseUrl}products/{id}.json");
+            }
+
     }
+
+
+
+
+}

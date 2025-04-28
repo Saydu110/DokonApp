@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="dokonApp3.LoginPage"
+             Title="LoginPage">
+    <ScrollView>
+        <StackLayout Padding="30" Spacing="20" VerticalOptions="Center">
+
+            <Label Text="Welcome Back!" 
+                   FontSize="32" 
+                   HorizontalOptions="Center"
+                   TextColor="Black"
+                   FontAttributes="Bold"/>
+
+            <Entry x:Name="usernameEntry"
+                   Placeholder="Username"
+                   PlaceholderColor="Gray"
+                   TextColor="Black"
+                   BackgroundColor="#f2f2f2"
+                   Margin="0,20,0,0"
+                   HeightRequest="50"
+                   Keyboard="Default"/>
+
+            <Entry x:Name="passwordEntry"
+                   Placeholder="Password"
+                   PlaceholderColor="Gray"
+                   TextColor="Black"
+                   BackgroundColor="#f2f2f2"
+                   HeightRequest="50"
+                   IsPassword="True"
+                   Keyboard="Default"/>
+
+            <Button Text="Login"
+                    TextColor="White"
+                    BackgroundColor="#2196F3"
+                    CornerRadius="10"
+                    HeightRequest="50"
+                    Clicked="OnLoginClicked"/>
+
+            <Button Text="Register"
+                    TextColor="#2196F3"
+                    BackgroundColor="Transparent"
+                    BorderColor="#2196F3"
+                    BorderWidth="2"
+                    CornerRadius="10"
+                    HeightRequest="50"
+                    Clicked="OnRegisterClicked"/>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

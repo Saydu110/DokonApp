@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="dokonApp2.AdminPage"
+             Title="AdminPage">
+    <VerticalStackLayout Padding="20" Spacing="10">
+        <Label Text="Admin Panel"
+               FontSize="32"
+               HorizontalOptions="Center"
+               TextColor="Black"/>
+
+        <CollectionView x:Name="productListView">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="Gray" Padding="10" Margin="5">
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Name}" FontSize="20" TextColor="Black"/>
+                            <Label Text="{Binding Description}" FontSize="14" TextColor="Gray"/>
+
+                            <HorizontalStackLayout Spacing="10">
+                                <Button Text="Update" BackgroundColor="Orange" TextColor="White"
+                                        Clicked="OnUpdateClicked"/>
+                                <Button Text="Delete" BackgroundColor="Red" TextColor="White"
+                                        Clicked="OnDeleteClicked"/>
+                            </HorizontalStackLayout>
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Button Text="Logout" 
+                BackgroundColor="Crimson" 
+                TextColor="White"
+                Clicked="OnLogoutClicked"/>
+    </VerticalStackLayout>
+</ContentPage>

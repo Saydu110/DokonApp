@@ -10,7 +10,7 @@ public partial class AddProductPage : ContentPage
 
     public AddProductPage()
 	{
-		InitializeComponent();
+        InitializeComponent();
 	}
 
     private async void OnAddProductClicked(object sender, EventArgs e)
