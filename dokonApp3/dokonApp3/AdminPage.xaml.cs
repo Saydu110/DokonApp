@@ -80,4 +80,10 @@ public partial class AdminPage : ContentPage
             await DisplayAlert("Error", "Invalid price!", "OK");
         }
     }
+    private async void OnLogoutClicked(object sender, EventArgs e)
+    {
+        SessionService.Logout(); // Auth ma'lumotlarini tozalash
+        await Navigation.PushAsync(new LoginPage());
+        Navigation.RemovePage(this); // AdminPage ni o'chirish
+    }
 }

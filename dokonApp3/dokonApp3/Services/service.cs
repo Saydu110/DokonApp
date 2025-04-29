@@ -81,6 +81,8 @@ namespace dokonApp3.Services
             IsLoggedIn = false;
             UserType = string.Empty;
         }
+
+
     }
 
     

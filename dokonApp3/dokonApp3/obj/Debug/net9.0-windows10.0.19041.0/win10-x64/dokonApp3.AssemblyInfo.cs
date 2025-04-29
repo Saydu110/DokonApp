@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dokonApp3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7784d4b52cb0b4b7dba59c960d435ff3956b2f07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8b38b0d1c456d2cc6498f9b5a635c77d5903deef")]
 [assembly: System.Reflection.AssemblyProductAttribute("dokonApp3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dokonApp3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
