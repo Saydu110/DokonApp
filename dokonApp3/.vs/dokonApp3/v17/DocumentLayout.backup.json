@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Github_project\\DokonApp\\dokonApp3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,32 +23,32 @@
       "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\products_model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\products_model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|c:\\github_project\\dokonapp\\dokonapp3\\dokonapp3\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B107827-BD86-480D-8890-0E0D7F66567B}|dokonApp3\\dokonApp3.csproj|solutionrelative:dokonapp3\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,56 +67,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\App.xaml",
+              "RelativeDocumentMoniker": "dokonApp3\\App.xaml",
+              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\App.xaml",
+              "RelativeToolTip": "dokonApp3\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T10:30:59.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\App.xaml.cs",
+              "RelativeDocumentMoniker": "dokonApp3\\App.xaml.cs",
+              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\App.xaml.cs",
+              "RelativeToolTip": "dokonApp3\\App.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:09:01.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\UserPage.xaml",
+              "RelativeDocumentMoniker": "dokonApp3\\UserPage.xaml",
+              "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\UserPage.xaml",
+              "RelativeToolTip": "dokonApp3\\UserPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T13:58:04.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AdminPage.xaml.cs",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\AdminPage.xaml.cs",
               "RelativeDocumentMoniker": "dokonApp3\\AdminPage.xaml.cs",
               "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\AdminPage.xaml.cs",
               "RelativeToolTip": "dokonApp3\\AdminPage.xaml.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowEUAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T17:53:39.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AdminPage.xaml",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\AdminPage.xaml",
               "RelativeDocumentMoniker": "dokonApp3\\AdminPage.xaml",
               "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\AdminPage.xaml",
               "RelativeToolTip": "dokonApp3\\AdminPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-28T17:52:52.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\AppShell.xaml",
               "RelativeDocumentMoniker": "dokonApp3\\AppShell.xaml",
               "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\AppShell.xaml",
               "RelativeToolTip": "dokonApp3\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-28T17:44:46.816Z"
+              "WhenOpened": "2025-04-28T17:44:46.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "dokonApp3\\LoginPage.xaml.cs",
               "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\LoginPage.xaml.cs",
               "RelativeToolTip": "dokonApp3\\LoginPage.xaml.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowAIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:44:44.352Z"
+              "WhenOpened": "2025-04-28T17:44:44.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\LoginPage.xaml",
               "RelativeDocumentMoniker": "dokonApp3\\LoginPage.xaml",
@@ -112,23 +165,25 @@
               "RelativeToolTip": "dokonApp3\\LoginPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-28T17:44:39.685Z"
+              "WhenOpened": "2025-04-28T17:44:39.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "dokonApp3\\MainPage.xaml.cs",
               "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\MainPage.xaml.cs",
               "RelativeToolTip": "dokonApp3\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:30:19.389Z"
+              "WhenOpened": "2025-04-28T17:30:19.389Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\MainPage.xaml",
               "RelativeDocumentMoniker": "dokonApp3\\MainPage.xaml",
@@ -136,29 +191,31 @@
               "RelativeToolTip": "dokonApp3\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-28T17:29:35.748Z"
+              "WhenOpened": "2025-04-28T17:29:35.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "product.cs",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\Products_model\\product.cs",
               "RelativeDocumentMoniker": "dokonApp3\\Products_model\\product.cs",
               "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\Products_model\\product.cs",
               "RelativeToolTip": "dokonApp3\\Products_model\\product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:09:20.497Z"
+              "WhenOpened": "2025-04-28T17:09:20.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "service.cs",
               "DocumentMoniker": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\Services\\service.cs",
               "RelativeDocumentMoniker": "dokonApp3\\Services\\service.cs",
               "ToolTip": "C:\\Github_project\\DokonApp\\dokonApp3\\dokonApp3\\Services\\service.cs",
               "RelativeToolTip": "dokonApp3\\Services\\service.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAqwFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T17:08:13.511Z",
               "EditorCaption": ""

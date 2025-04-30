@@ -11,7 +11,9 @@ namespace dokonApp3.Products_model
         public string Id { get; set; }  // Firebase'ning key'si sifatida ishlatiladi
         public string Name { get; set; }
         public string Description { get; set; }
-        public decimal Price { get; set; }
+        public decimal FirstPrice { get; set; }
+        public decimal SecondPrice { get; set;}
+
     }
 
     public class User

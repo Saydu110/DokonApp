@@ -22,7 +22,9 @@ public partial class LoginPage : ContentPage
 
         if (user != null)
         {
-            SessionService.IsLoggedIn = true;
+            // Sessiyani saqlash
+            SessionService.SetLogin(user.Role);
+
             if (user.Role == "admin")
             {
                 await DisplayAlert("Xush kelibsiz", "Admin sifatida kirdingiz!", "OK");
@@ -33,6 +35,8 @@ public partial class LoginPage : ContentPage
                 await DisplayAlert("Xush kelibsiz", "Foydalanuvchi sifatida kirdingiz!", "OK");
                 await Navigation.PushAsync(new UserPage());
             }
+
+            // Login sahifasini navigatsiyadan olib tashlash
             Navigation.RemovePage(this);
         }
         else
@@ -40,6 +44,7 @@ public partial class LoginPage : ContentPage
             await DisplayAlert("Xatolik", "Login yoki parol xato!", "OK");
         }
     }
+
 
     private async void OnRegisterClicked(object sender, EventArgs e)
     {

@@ -24,14 +24,18 @@ public partial class AdminPage : ContentPage
     {
         string name = await DisplayPromptAsync("New Product", "Enter product name:");
         string description = await DisplayPromptAsync("New Product", "Enter product description:");
-        string priceText = await DisplayPromptAsync("New Product", "Enter product price:");
-        if (decimal.TryParse(priceText, out decimal price))
+        string firstprice = await DisplayPromptAsync("New Product", "Kelish narxini kiriting:");
+        string secondprice = await DisplayPromptAsync("New Product", "Sotish narxini kiriting:");
+        if (decimal.TryParse(firstprice, out decimal Fprice) &&
+        decimal.TryParse(secondprice, out decimal Sprice))
         {
             var newProduct = new Product
             {
                 Name = name,
-                Description = description,
-                Price = price
+                Description = description, 
+                FirstPrice = Fprice,
+                SecondPrice = Sprice
+
             };
             await _firebaseService.AddProductAsync(newProduct);
             LoadProducts(); // Mahsulotlarni qaytadan yuklash
@@ -62,15 +66,18 @@ public partial class AdminPage : ContentPage
 
         string newName = await DisplayPromptAsync("Edit Product", "Enter new product name:", initialValue: product.Name);
         string newDescription = await DisplayPromptAsync("Edit Product", "Enter new description:", initialValue: product.Description);
-        string newPriceText = await DisplayPromptAsync("Edit Product", "Enter new price:", initialValue: product.Price.ToString());
+        string FnewPriceText = await DisplayPromptAsync("Edit Product", "Yangi kelish narxi:", initialValue: product.FirstPrice.ToString());
+        string SnewPriceText = await DisplayPromptAsync("Edit Product", "Sotish narxi:", initialValue: product.SecondPrice.ToString());
 
-        if (decimal.TryParse(newPriceText, out decimal newPrice))
+        if (decimal.TryParse(FnewPriceText, out decimal FnewPrice) &&
+            decimal.TryParse(SnewPriceText, out decimal SnewPrice))
         {
             var updatedProduct = new Product
             {
                 Name = newName,
                 Description = newDescription,
-                Price = newPrice
+                FirstPrice = FnewPrice,
+                SecondPrice = SnewPrice
             };
             await _firebaseService.UpdateProductAsync(product.Id, updatedProduct);
             LoadProducts(); // Mahsulotlarni qaytadan yuklash

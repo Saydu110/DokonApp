@@ -1,0 +1,4 @@
+C:\Github_project\DokonApp\dokonApp3\dokonApp3\bin\Release\net9.0-android\publish\com.companyname.dokonapp3-Signed.aab
+C:\Github_project\DokonApp\dokonApp3\dokonApp3\bin\Release\net9.0-android\publish\com.companyname.dokonapp3.aab
+C:\Github_project\DokonApp\dokonApp3\dokonApp3\bin\Release\net9.0-android\publish\com.companyname.dokonapp3-Signed.apk
+C:\Github_project\DokonApp\dokonApp3\dokonApp3\bin\Release\net9.0-android\publish\_Microsoft.Android.Resource.Designer.dll

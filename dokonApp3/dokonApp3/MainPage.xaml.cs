@@ -16,9 +16,10 @@ namespace dokonApp3
         {
             await Task.Delay(1000); // Loading effekti uchun
 
-            if (SessionService.IsLoggedIn)
+            if (SessionService.IsLoggedIn())
             {
-                if (SessionService.UserType == "admin")
+                string role = SessionService.GetUserRole();
+                if (role == "admin")
                     await Navigation.PushAsync(new AdminPage());
                 else
                     await Navigation.PushAsync(new UserPage());
@@ -27,7 +28,8 @@ namespace dokonApp3
             {
                 await Navigation.PushAsync(new LoginPage());
             }
-            Navigation.RemovePage(this); // StartupPage'ni stackdan olib tashlaymiz
+
+            Navigation.RemovePage(this); // MainPage'ni stackdan olib tashlash
         }
 
         private async void OnContinueClicked(object sender, EventArgs e)

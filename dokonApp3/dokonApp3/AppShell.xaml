@@ -13,17 +13,17 @@
         Route="MainPage" />
 
     <ShellContent
-        Title="Login"
+        Title="login"
         ContentTemplate="{DataTemplate local:LoginPage}"
         Route="LoginPage" />
 
     <ShellContent
-        Title="Admin"
+        Title="admin"
         ContentTemplate="{DataTemplate local:AdminPage}"
         Route="AdminPage" />
 
     <ShellContent
-        Title="User"
+        Title="user"
         ContentTemplate="{DataTemplate local:UserPage}"
         Route="UserPage" />
 

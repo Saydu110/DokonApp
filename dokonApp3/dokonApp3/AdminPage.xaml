@@ -27,7 +27,9 @@
                         <StackLayout>
                             <Label Text="{Binding Name}" FontAttributes="Bold" FontSize="20"/>
                             <Label Text="{Binding Description}" FontSize="16" TextColor="Gray"/>
-                            <Label Text="{Binding Price, StringFormat='Narxi: {0:C}'}" FontSize="16" TextColor="Green"/>
+                            <Label Text="{Binding FirstPrice, StringFormat='Kelish narxi: {0:C}'}" FontSize="16" TextColor="Green"/>
+                            <Label Text="{Binding SecondPrice, StringFormat='Sotish narxi: {0:C}'}" FontSize="16" TextColor="Green"/>
+                            
                             <StackLayout Orientation="Horizontal" Spacing="10" Margin="0,5,0,0">
                                 <Button Text="Edit" 
                                         BackgroundColor="#2196F3" 

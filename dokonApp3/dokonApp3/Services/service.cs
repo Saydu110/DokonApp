@@ -72,18 +72,31 @@ namespace dokonApp3.Services
 
     public static class SessionService
     {
-        public static bool IsLoggedIn { get; set; } = false;
+        public static void SetLogin(string role)
+        {
+            Preferences.Set("isLoggedIn", true);
+            Preferences.Set("userRole", role); // "admin" yoki "user"
+        }
 
-        public static string UserType { get; set; } = string.Empty; // "admin" yoki "user"
+        public static bool IsLoggedIn()
+        {
+            return Preferences.Get("isLoggedIn", false);
+        }
+
+        public static string GetUserRole()
+        {
+            return Preferences.Get("userRole", string.Empty);
+        }
 
         public static void Logout()
         {
-            IsLoggedIn = false;
-            UserType = string.Empty;
+            Preferences.Remove("isLoggedIn");
+            Preferences.Remove("userRole");
         }
-
-
     }
 
-    
+
 }
+
+    
+
